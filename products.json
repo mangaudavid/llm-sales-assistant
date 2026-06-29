@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bormasina-percutie-x",
+    "name": "Bormasina cu percutie X-Pro 750W",
+    "category": "scule electrice",
+    "price_ron": 369,
+    "in_stock": true,
+    "tags": ["bormasina", "percutie", "gaurire", "beton", "lemn", "metal"],
+    "description": "Bormasina cu percutie 750W, mandrina 13mm, ideala pentru beton usor, lemn si metal."
+  },
+  {
+    "id": "polizor-unghiular-125",
+    "name": "Polizor unghiular 125mm 900W",
+    "category": "scule electrice",
+    "price_ron": 259,
+    "in_stock": true,
+    "tags": ["polizor", "flex", "taiere", "slefuire", "metal"],
+    "description": "Polizor unghiular 900W, disc 125mm, pentru taiere si slefuire metal si piatra."
+  },
+  {
+    "id": "trusa-biti-set",
+    "name": "Trusa biti si burghie 102 piese",
+    "category": "accesorii",
+    "price_ron": 89,
+    "in_stock": true,
+    "tags": ["biti", "burghie", "insurubare", "gaurire", "set"],
+    "description": "Set complet 102 piese: biti de insurubat si burghie pentru lemn, metal si beton."
+  },
+  {
+    "id": "autofiletanta-acumulator",
+    "name": "Masina de gaurit si insurubat cu acumulator 20V",
+    "category": "scule electrice",
+    "price_ron": 449,
+    "in_stock": false,
+    "tags": ["autofiletanta", "acumulator", "insurubare", "gaurire", "20v"],
+    "description": "Autofiletanta 20V cu 2 acumulatori, cuplu reglabil, pentru insurubare si gaurire."
+  },
+  {
+    "id": "nivela-laser",
+    "name": "Nivela cu laser in cruce, autonivelare",
+    "category": "masurare",
+    "price_ron": 219,
+    "in_stock": true,
+    "tags": ["nivela", "laser", "masurare", "aliniere", "constructii"],
+    "description": "Nivela laser cu autonivelare, linii orizontale si verticale, raza 15m."
+  }
+]
